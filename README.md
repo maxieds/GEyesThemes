@@ -49,3 +49,8 @@ broadcast live on the day of its inception, I offer the *PumpkinMonster*
 eye set as a Halloween-themed tribute to the band. 
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/PumpkinEyes.png" /><img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/PumpkinEyes2.png" />
+
+### Cupid theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/Cupid.png" />
+
