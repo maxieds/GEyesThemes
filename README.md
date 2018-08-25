@@ -54,3 +54,11 @@ eye set as a Halloween-themed tribute to the band.
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/Cupid.png" />
 
+### TieDye theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/TieDye.png" />
+
+### Brandi theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/Brandi.png" />
+
