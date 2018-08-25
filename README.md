@@ -1,3 +1,5 @@
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/readme-icon.png" />
+
 # GEyesThemes
 
 Custom themes for the Gnome panel applet GEyes. Note that the source to 
