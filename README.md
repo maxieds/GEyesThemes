@@ -48,4 +48,4 @@ In honor of the [Smashing Pumpkins concert](https://twitter.com/i/events/1029828
 broadcast live on the day of its inception, I offer the *PumpkinMonster* 
 eye set as a Halloween-themed tribute to the band. 
 
-<img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/PumpkinMonster.png" />
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/PumpkinEyes.png" />
