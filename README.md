@@ -64,3 +64,7 @@ eye set as a Halloween-themed tribute to the band.
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/Brandi.png" />
 
+### CheshireCat theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/CheshireCat.png" />
+
