@@ -1,4 +1,4 @@
-wall-thickness = 10
+wall-thickness = 18
 num-eyes = 2
 eye-pixmap = "brown-eye.png"
 pupil-pixmap = "brown-pupil.png"
