@@ -98,6 +98,10 @@ eye set as a Halloween-themed tribute to the band.
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/CameoCat.png" />
 
+### RainbowPi theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/RainbowPi.png" />
+
 
 
 
