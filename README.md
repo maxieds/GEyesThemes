@@ -87,6 +87,7 @@ eye set as a Halloween-themed tribute to the band.
 
 ### Apery theme (digits of the zeta(3) constant)
 
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/Apery.png" />
 
 ### ConcreteMath theme
 
