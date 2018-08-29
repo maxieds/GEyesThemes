@@ -114,7 +114,13 @@ eye set as a Halloween-themed tribute to the band.
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/Binomial.png" />
 
+### OctoAlien theme
 
+### Eye4 theme
+
+### Eye5 theme
+
+### Eye6 theme
 
 
 
