@@ -84,6 +84,7 @@ eye set as a Halloween-themed tribute to the band.
 
 ### PiDay theme
 
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/PiDay.png" />
 
 ### Apery theme (digits of the zeta(3) constant)
 
