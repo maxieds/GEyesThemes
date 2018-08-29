@@ -82,7 +82,7 @@ eye set as a Halloween-themed tribute to the band.
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/EulerGamma.png" />
 
-### PiDay theme (digits of the Euler-Mascheroni constant)
+### PiDay theme
 
 
 ### Apery theme (digits of the zeta(3) constant)
