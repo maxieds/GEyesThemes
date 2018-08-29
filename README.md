@@ -68,3 +68,18 @@ eye set as a Halloween-themed tribute to the band.
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/CheshireCat.png" />
 
+### Shamrock theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/Shamrock.png" />
+
+### EulerGamma theme (digits of the Euler-Mascheroni constant)
+
+
+### PiDay theme (digits of the Euler-Mascheroni constant)
+
+
+### Apery theme (digits of the zeta(3) constant)
+
+
+
+
