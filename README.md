@@ -102,6 +102,11 @@ eye set as a Halloween-themed tribute to the band.
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/RainbowPi.png" />
 
+### Rumba theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/Rumba.png" />
+
+
 
 
 
