@@ -74,6 +74,7 @@ eye set as a Halloween-themed tribute to the band.
 
 ### EulerGamma theme (digits of the Euler-Mascheroni constant)
 
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/EulerGamma.png" />
 
 ### PiDay theme (digits of the Euler-Mascheroni constant)
 
