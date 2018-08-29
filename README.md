@@ -116,12 +116,21 @@ eye set as a Halloween-themed tribute to the band.
 
 ### OctoAlien theme
 
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/OctoAlien.png" />
+
 ### Eye4 theme
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/Eye4.png" />
+
 
 ### Eye5 theme
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/Eye5.png" />
+
 
 ### Eye6 theme
 
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/screenshots/Eye6.png" />
 
+
+### TuxPenguin
 
 
