@@ -24,7 +24,13 @@ $ cd GEyesThemes
 On Linux Mint (*MATE* desktop), and likely on modern Ubuntu derivatives, 
 this can be accomplished by executing:
 ```
-$ sudo cp -r ./* /usr/share/mate-applets/geyes/
+$ sudo cp -r ./ThemeStyle /usr/share/mate-applets/geyes/
+```
+More generally, on any sane Unix with the ``gnome-applet`` package installed, 
+running the following should install any given theme:
+```
+$ export GEYESTHEMES=`find /usr/share -iname Default-eye.png | sed -e 's/Default\/Default-eye.png//'`
+$ sudo cp -r ./ThemeStyle $GEYESTHEMES
 ```
 Then if you right click on the installed *GEyes* applet in your Gnome panel, 
 and select *Preferences*, you should immediately be able to select eye 
