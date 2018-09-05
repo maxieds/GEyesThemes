@@ -1,0 +1,15 @@
+This theme is a tribute to one of my favorite mathematical constants, 
+\zeta(3), also known as Apery's constant after the French mathematician who 
+famously proved it to be irrational in the 1970's. The proof of the 
+irrationality of this constant (whether it is indeed transcendental is still 
+a big open problem amongst number theorists) relies on bounding the ratios 
+of two integer (almost-integer) sequences defined by sums of binomial 
+coefficients in a very clever, ingenious argument using well-known 
+irrationality criteria. The so-termed even-indexed zeta constants, 
+\zeta(2k) for k>=1 an integer, have been well recognized in closed-form as 
+a transcendental sequences expressed by predictable rational multiples of 
+powers of \pi. While the \zeta(2) case is certainly an interesting case, 
+if nothing else than for the historical context and brilliant methematicians 
+who trie to sum it exactly, this theme is inspired by the genuine oddness 
+of this dual sequence to the classically identified cases! With luck to those 
+who run this theme on their Linux in search of \zeta(5)!

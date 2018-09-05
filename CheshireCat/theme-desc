@@ -1,0 +1,14 @@
+I wanted a cat theme with whiskers and pointy ears for occasional late-night 
+kitty lap sessions coding with Kush. It turns out that the code for the 
+GEyes plugin / panel applet is about as fool-proof as it comes in that it 
+is written to support eye-pupil wall paddings for simple circular and 
+ellipse-like structures. In particular, it does not allow one to 
+adjust the padding between the edge of the eyeball image and the pupil 
+image separately over common regions of the overal theme, i.e., adding 
+ears and lower whiskers impairs the pupil range of motion so much that 
+it really isn't currently worth it to have such a detailed cat theme. 
+I'm still working out variants. The Cheshire Cat is famous, and I 
+believe good spirited enough, to be added to the list of cat artwork that 
+does fit into the standard-looking GEyes theme appearances. Just don't 
+ever, ever make hime mad: he will swat at your mouse and riddle it into 
+maddening disappearance.

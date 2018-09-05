@@ -1,0 +1,13 @@
+Another attempt at hommage to one of my other favorite mathematical constants. 
+It shows up all over the place, from asymptotic ratios of the density of the 
+squarefree integers to those that the Moebius function prefers to annihilate, 
+to the approximation of the first-order hamonic numbers by 
+H_n \sim \log(n) + \gamma, to fun yet challenging series and integrals 
+that need its wonders to be summed in closed-form. This Euler-Gamma, or 
+many times also Euler-Mascheroni, constant is approximately 0.577..., a 
+pattern beginning a list of presumably irrational (non-repeating) digits. 
+The theme has (like many \pi symbols) a spiral of truncated digits for the 
+constant, and typeset \gamma eyeballs. It is recommended that you run this 
+theme the night before your next calc exam for good luck and possibly 
+bonus credit for non-trivial trivia about approximately how slowly the 
+harmonic series diverges off to infinity.
