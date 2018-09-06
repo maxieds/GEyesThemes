@@ -150,4 +150,8 @@ styles from among the newly installed themes.
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/TuxPenguin/TuxPenguin.png" />
 
+### #29 : TrollDoll theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/TrollDoll/TrollDoll.png" />
+
 

@@ -25,4 +25,5 @@ RainbowPi
 Rumba
 Shamrock
 TieDye
+TrollDoll
 TuxPenguin
