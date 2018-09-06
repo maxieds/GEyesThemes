@@ -39,8 +39,6 @@ styles from among the newly installed themes.
 ## The custom themes
 
 
-
-
 ### #1 : Green-EyedGirl theme
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/Green-EyedGirl/Green-EyedGirl.png" />
@@ -148,5 +146,9 @@ styles from among the newly installed themes.
 ### #27 : CompMadness theme
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/CompMadness/CompMadness.png" />
+
+### #28 : TuxPenguin theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/TuxPenguin/TuxPenguin.png" />
 
 
