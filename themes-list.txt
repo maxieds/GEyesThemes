@@ -9,6 +9,7 @@ CircuitBorg
 CompMadness
 ConcreteMath
 Cupid
+Cupid2
 EulerGamma
 Eye4
 Eye5
@@ -17,6 +18,7 @@ EyelashLarge
 Green-EyedGirl
 Jas0n
 MonsterEye2
+Ninja
 OctoAlien
 PiDay
 Pink-EyedGirl

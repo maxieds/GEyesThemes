@@ -154,4 +154,12 @@ styles from among the newly installed themes.
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/TrollDoll/TrollDoll.png" />
 
+### #31 : Ninja theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/Ninja/Ninja.png" />
+
+### #32 : Cupid2 theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/Cupid2/Cupid2.png" />
+
 
