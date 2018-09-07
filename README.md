@@ -162,4 +162,8 @@ styles from among the newly installed themes.
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/Cupid2/Cupid2.png" />
 
+### #33 : OctoAlien2 theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/OctoAlien2/OctoAlien2.png" />
+
 
