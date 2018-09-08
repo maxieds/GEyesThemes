@@ -166,4 +166,12 @@ styles from among the newly installed themes.
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/OctoAlien2/OctoAlien2.png" />
 
+### #34 : Igor theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/Igor/Igor.png" />
+
+### #35 : Tired theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/Tired/Tired.png" />
+
 

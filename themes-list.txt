@@ -16,6 +16,7 @@ Eye5
 Eye6
 EyelashLarge
 Green-EyedGirl
+Igor
 Jas0n
 MonsterEye2
 Ninja
@@ -28,5 +29,6 @@ RainbowPi
 Rumba
 Shamrock
 TieDye
+Tired
 TrollDoll
 TuxPenguin
