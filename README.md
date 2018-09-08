@@ -174,4 +174,12 @@ styles from among the newly installed themes.
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/Tired/Tired.png" />
 
+### #36 : SchoolTeacher theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/SchoolTeacher/SchoolTeacher.png" />
+
+### #37 : Jack theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/Jack/Jack.png" />
+
 

@@ -17,6 +17,7 @@ Eye6
 EyelashLarge
 Green-EyedGirl
 Igor
+Jack
 Jas0n
 MonsterEye2
 Ninja
@@ -27,6 +28,7 @@ Pink-EyedGirl
 PumpkinMonster
 RainbowPi
 Rumba
+SchoolTeacher
 Shamrock
 TieDye
 Tired
