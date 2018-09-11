@@ -182,4 +182,44 @@ styles from among the newly installed themes.
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/Jack/Jack.png" />
 
+### #37 : PinkMixUpsDemo theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/PinkMixUpsDemo/PinkMixUpsDemo.png" />
+
+### #38 : PurpleMixUpsDemo theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/PurpleMixUpsDemo/PurpleMixUpsDemo.png" />
+
+### #39 : LightBlueDemo theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/LightBlueDemo/LightBlueDemo.png" />
+
+### #40 : AngryEyes theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/AngryEyes/AngryEyes.png" />
+
+### #41 : AnimalPrint theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/AnimalPrint/AnimalPrint.png" />
+
+### #41 : Spiral1 theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/Spiral1/Spiral1.png" />
+
+### #42 : Oscar theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/Oscar/Oscar.png" />
+
+### #43 : StarryNight theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/StarryNight/StarryNight.png" />
+
+### #44 : Planetary theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/Planetary/Planetary.png" />
+
+### #45 : HelloRobot theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/HelloRobot/HelloRobot.png" />
+
 
