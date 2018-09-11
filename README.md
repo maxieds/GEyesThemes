@@ -154,6 +154,10 @@ styles from among the newly installed themes.
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/TrollDoll/TrollDoll.png" />
 
+### #30-ish : FuckTrump theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/FuckTrump/FuckTrump.png" />
+
 ### #31 : Ninja theme
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/Ninja/Ninja.png" />
@@ -225,9 +229,5 @@ styles from among the newly installed themes.
 ### #46 : OlBen theme
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/OlBen/OlBen.png" />
-
-### # : FuckTrump theme
-
-<img src="https://github.com/maxieds/GEyesThemes/blob/master/FuckTrump/FuckTrump.png" />
 
 
