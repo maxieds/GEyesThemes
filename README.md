@@ -222,4 +222,12 @@ styles from among the newly installed themes.
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/HelloRobot/HelloRobot.png" />
 
+### #46 : OlBen theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/OlBen/OlBen.png" />
+
+### # : FuckTrump theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/FuckTrump/FuckTrump.png" />
+
 
