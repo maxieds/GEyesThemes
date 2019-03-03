@@ -36,8 +36,6 @@ Then if you right click on the installed *GEyes* applet in your Gnome panel,
 and select *Preferences*, you should immediately be able to select eye 
 styles from among the newly installed themes.
 
-## The custom themes
-
 ### #1 : Green-EyedGirl theme
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/Green-EyedGirl/Green-EyedGirl.png" />
@@ -230,4 +228,7 @@ styles from among the newly installed themes.
 
 <img src="https://github.com/maxieds/GEyesThemes/blob/master/OlBen/OlBen.png" />
 
+### #47 : BowBeforeMeForIAmRoot theme
+
+<img src="https://github.com/maxieds/GEyesThemes/blob/master/BowBeforeMeForIAmRoot/BowBeforeMeForIAmRoot.png" />
 
